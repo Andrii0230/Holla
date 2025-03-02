@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 3em;
+ text-align: center;
+    background-color: aqua;
+}
+.color{
+    color: red;
+}
+#can{
+    display: flex;
+    flex-direction: row;
+    color: orange;
+}
+#can p{
+    width: 20%;
+    color: black;
+}
+#mane{
+    display: flex; background-color: #ffffff;
+    flex-direction: row-reverse;
+    border-bottom: 3px black solid;
+}
+#lorra{
+    color: black;
+    border: 1px black solid
+}
+div{
+    min-width: 30%;
+    height: 250px;
+    border-bottom: 1px;
+    flex-direction: column;
+}
+span{
+    color: rgb(0, 21, 255);
+}
+#you{
+    color: rgba(255, 0, 213, 0.87);
+}
+footer{
+    text-align: center;
+    padding: 300px;
+    color: black;
+}
+a {
+    color: rgba(0, 0, 255, 0.82);
+    text-decoration: black;
+}
+img{
+    width: 100vw;
+    height: 2100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
